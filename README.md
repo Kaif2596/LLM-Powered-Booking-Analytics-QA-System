@@ -44,6 +44,8 @@ This project develops an LLM-powered system to analyze hotel booking data and pr
 
 ### Sample Test Queries & Expected Answers
 
+![image alt](https://github.com/Kaif2596/LLM-Powered-Booking-Analytics-QA-System/blob/main/Screenshot%20(25).png)
+
 
 ## 🧠 How It Works
 
@@ -54,6 +56,11 @@ This project develops an LLM-powered system to analyze hotel booking data and pr
 - **Bonus Features**: SQLite for real-time updates, query history tracking, and health checks.
 ## 📊 Demo
 
+![image alt](https://github.com/Kaif2596/LLM-Powered-Booking-Analytics-QA-System/blob/main/revenue_trends.png)
+
+![image alt](https://github.com/Kaif2596/LLM-Powered-Booking-Analytics-QA-System/blob/main/lead_time_distribution.png)
+
+![image alt](https://github.com/Kaif2596/LLM-Powered-Booking-Analytics-QA-System/blob/main/geo_distribution.png)
 
 ## 📈 Challenges:
 
